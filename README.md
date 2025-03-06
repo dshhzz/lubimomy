@@ -134,7 +134,7 @@
     <h1>Наши фоточки</h1>
     <div class="gallery-container">
         <button class="arrow left" onclick="prevImage()">&#10094;</button>
-        <img id="gallery-image" src="your-image1.jpg" alt="Фото 1">
+        <img id="gallery-image" src="5.jpg" alt="Фото 1">
         <button class="arrow right" onclick="nextImage()">&#10095;</button>
     </div>
     <button class="back-btn" onclick="goBack('button-page')">Назад</button>
